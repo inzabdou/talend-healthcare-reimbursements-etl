@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_iKDBsKfpEe-97b4OnhVhVA" name="adhésion_detailtest" dataPackage="_iKDBsafpEe-97b4OnhVhVA" Server="Localhost 127.0.0.1" FilePath="C:/Users/alexa/Documents/BI/TP/DATA/Adhesion_detail.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_iKDBsafpEe-97b4OnhVhVA" name="default" dataManager="_iKDBsKfpEe-97b4OnhVhVA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_iKDBsqfpEe-97b4OnhVhVA" id="_c7nN8KfpEe-97b4OnhVhVA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBs6fpEe-97b4OnhVhVA" label="NUM_ADHESION_NORMALISE" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBtKfpEe-97b4OnhVhVA" label="NUM_BENEFICIAIRE_UNIQUE" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBtafpEe-97b4OnhVhVA" label="DATE_NAISSANCE_ASSURE" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBtqfpEe-97b4OnhVhVA" label="CODE_POSTAL" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBt6fpEe-97b4OnhVhVA" label="EXERCICE_PAIEMENT" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBuKfpEe-97b4OnhVhVA" label="NUM_BENEFICIAIRE" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBuafpEe-97b4OnhVhVA" label="TYPE_BENEFICIAIRE" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBuqfpEe-97b4OnhVhVA" label="DATE_NAISSANCE_BENEFICIAIRE" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBu6fpEe-97b4OnhVhVA" label="CODE_PROFESSION" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBvKfpEe-97b4OnhVhVA" label="CODE_PRODUIT" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBvafpEe-97b4OnhVhVA" label="CODE_FRACTIONNEMENT" length="1" talendType="id_Character" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBvqfpEe-97b4OnhVhVA" label="CODE_GARANTIE" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBv6fpEe-97b4OnhVhVA" label="FORMULE" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBwKfpEe-97b4OnhVhVA" label="PRIMES_ACQUISES" length="7" precision="6" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBwafpEe-97b4OnhVhVA" label="CODE_AGENT" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBwqfpEe-97b4OnhVhVA" label="CODE_REGION" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_iKDBw6fpEe-97b4OnhVhVA" label="PRIME_GARANTIE" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

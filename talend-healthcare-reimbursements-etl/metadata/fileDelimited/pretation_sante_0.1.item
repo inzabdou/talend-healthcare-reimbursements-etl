@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_LKYnAKf0Ee-97b4OnhVhVA" name="pretation_sante" id="_LKX_8Kf0Ee-97b4OnhVhVA" dataPackage="_LKYnAaf0Ee-97b4OnhVhVA" Server="Localhost 127.0.0.1" FilePath="C:/Users/abdou/Desktop/M2 MIAGE BI/SID/data/raw/Prestations_sante.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_LKYnAaf0Ee-97b4OnhVhVA" name="default" dataManager="_LKYnAKf0Ee-97b4OnhVhVA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_LKYnAqf0Ee-97b4OnhVhVA" id="_90XBEKfzEe-97b4OnhVhVA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnA6f0Ee-97b4OnhVhVA" label="NUM_SINISTRE" length="9" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnBKf0Ee-97b4OnhVhVA" label="NUM_ADHESION" length="5" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnBaf0Ee-97b4OnhVhVA" label="ACTE" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnBqf0Ee-97b4OnhVhVA" label="DESIGNATION_ACTE" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnB6f0Ee-97b4OnhVhVA" label="LIBELLE_BAREME" length="45" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnCKf0Ee-97b4OnhVhVA" label="NUM_BENEFICIAIRE" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnCaf0Ee-97b4OnhVhVA" label="NUM_BENEFICIAIRE_SINISTRE" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnCqf0Ee-97b4OnhVhVA" label="JOUR_DEBUT_SOINS" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnC6f0Ee-97b4OnhVhVA" label="MOIS_DEBUT_SOINS" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnDKf0Ee-97b4OnhVhVA" label="ANNEE_DEBUT_SOINS" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnDaf0Ee-97b4OnhVhVA" label="JOUR_PAIEMENT" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnDqf0Ee-97b4OnhVhVA" label="MOIS_PAIEMENT" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnD6f0Ee-97b4OnhVhVA" label="ANNEE_PAIEMENT" length="4" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnEKf0Ee-97b4OnhVhVA" label="FRAIS_REEL_ASSURE" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnEaf0Ee-97b4OnhVhVA" label="MONTANT_SECU" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_LKYnEqf0Ee-97b4OnhVhVA" label="MONTANT_REMBOURSE" length="6" precision="5" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

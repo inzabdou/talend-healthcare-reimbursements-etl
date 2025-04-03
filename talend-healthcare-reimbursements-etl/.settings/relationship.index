@@ -1,0 +1,178 @@
+[ {
+  "baseItem" : {
+    "id" : "_8zuqgKfzEe-97b4OnhVhVA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_LKX_8Kf0Ee-97b4OnhVhVA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "HealthServiceUtils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_LKX_8Kf0Ee-97b4OnhVhVA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_J8AkwKi3Ee-97b4OnhVhVA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_6YBB8LbZEe--k_yOdBYO3Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_V1vxIKDbEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_6YBB8LbZEe--k_yOdBYO3Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A - contrat_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_V1vxIKDbEe-t25cUKwRc3A - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_TdvZsKi3Ee-97b4OnhVhVA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_VknaUKDaEe-t25cUKwRc3A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_F0U68LbfEe--k_yOdBYO3Q",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A - beneficiaire_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_F0U68LbfEe--k_yOdBYO3Q - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_eCuuYKfmEe-97b4OnhVhVA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_9Zt_YKfmEe-97b4OnhVhVA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_V1vxIKDbEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_9Zt_YKfmEe-97b4OnhVhVA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A - adresse_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_V1vxIKDbEe-t25cUKwRc3A - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wn1RMKf6Ee-97b4OnhVhVA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "AgeUtils",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A - age_dim",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zWS2MLbaEe--k_yOdBYO3Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_LKX_8Kf0Ee-97b4OnhVhVA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_V1vxIKDbEe-t25cUKwRc3A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_dk4uoNazEe-Rq5AThPJxHg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_AzBiEKDXEe-t25cUKwRc3A - sinistre_fact",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_LKX_8Kf0Ee-97b4OnhVhVA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_V1vxIKDbEe-t25cUKwRc3A - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_dk4uoNazEe-Rq5AThPJxHg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_6YF6cLbZEe--k_yOdBYO3Q" name="profession" id="_6YBB8LbZEe--k_yOdBYO3Q" dataPackage="_6YF6cbbZEe--k_yOdBYO3Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/abdou/Desktop/M2 MIAGE BI/SID/data/raw/professions.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_6YF6cbbZEe--k_yOdBYO3Q" name="default" dataManager="_6YF6cLbZEe--k_yOdBYO3Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_6YF6crbZEe--k_yOdBYO3Q" id="_1BdM8LbZEe--k_yOdBYO3Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6YF6c7bZEe--k_yOdBYO3Q" label="Code" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_6YF6dLbZEe--k_yOdBYO3Q" label="Libelle" length="49" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
